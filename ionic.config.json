@@ -1,5 +1,7 @@
 {
   "name": "storageCrud",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
